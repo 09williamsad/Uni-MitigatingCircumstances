@@ -1,0 +1,45 @@
+indexes:
+- kind: Request
+  properties:
+  - name: status
+  - name: email
+  - name: assignedTo
+  - name: timeCreated
+    direction: desc
+
+- kind: Request
+  properties:
+  - name: assignedTo
+  - name: status
+  - name: timeCreated
+
+- kind: Followup
+  ancestor: yes
+  properties:
+  - name: timeCreated
+    direction: desc
+
+- kind: Request
+  properties:
+  - name: assignedTo
+  - name: timeCreated
+    direction: desc
+
+- kind: Request
+  properties:
+  - name: status
+  - name: timeCreated
+    direction: desc
+
+- kind: Request
+  properties:
+  - name: email
+  - name: timeCreated
+    direction: desc
+
+- kind: Account
+  properties:
+  - name: active
+  - name: role
+  - name: Name
+    direction: asc

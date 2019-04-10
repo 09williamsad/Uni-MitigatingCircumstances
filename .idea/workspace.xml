@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37dfb23a-c3c0-42d9-9444-6b236c0cb53a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <executablePath>composer</executablePath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AD Assignment Adam Williams i7648171" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Requests.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/StudMitSys/Control/Requests.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Requests.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudMitSys/View/Requests.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Smarty Template" />
+        <option value="UML Sequence" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>put</find>
+      <find>updateCard</find>
+      <find>cacert.</find>
+      <find>curl</find>
+      <find>updateCardIdList</find>
+      <find>addCard</find>
+      <find>updatecard</find>
+      <find>&quot;newTutor&quot;</find>
+      <find>Unassigned</find>
+      <find>newTutor</find>
+      <find>selectedTutor</find>
+      <find>tutorSelect</find>
+      <find>newtutor</find>
+      <find>adamw</find>
+      <find>smartyEmailBody</find>
+      <find>The tutor for Request with ID</find>
+      <find>emailtutor</find>
+      <find>sendEmail</find>
+      <find>addCardComment</find>
+      <find>getUserNickName</find>
+      <find>deleteKey</find>
+      <find>getEmail</find>
+      <find>/Control</find>
+      <find>/View</find>
+      <find>use</find>
+      <find>proj_path</find>
+      <find>reasonSelect</find>
+      <find>submit</find>
+      <find>useremail</find>
+      <find>$tutorEmailElement</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\Documents\University stuff\Advanced Development\Assignment\AD Assignment Adam Williams i7648171\vendor\tomwalder</dir>
+      <dir>D:\Documents\University stuff\Advanced Development\Assignment\AD Assignment Adam Williams i7648171\vendor\google</dir>
+      <dir>D:\Documents\University stuff\Advanced Development\Assignment\AD Assignment Adam Williams i7648171\vendor\google\cloud-datastore</dir>
+      <dir>D:\Documents\University stuff\Advanced Development\Assignment\AD Assignment Adam Williams i7648171\vendor\tomwalder\php-gds</dir>
+      <dir>D:\Documents\University stuff\Advanced Development\Assignment\AD Assignment Adam Williams i7648171\vendor</dir>
+      <dir>D:\Documents\University stuff\Advanced Development\Assignment\AD Assignment Adam Williams i7648171</dir>
+      <dir>D:\Users\i7648171\Google Drive\University stuff\Advanced Development\Assignment\AD Assignment Adam Williams i7648171</dir>
+    </dirStrings>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="composer require google/appengine-php-sdk" />
+    </commandsHistory>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/StudMitSys/View/userDetails.html" />
+        <option value="$PROJECT_DIR$/static/SkeletonCSS/skeleton.css" />
+        <option value="$PROJECT_DIR$/StudMitSys/Model/UpdateDatastore.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/ajaxFunctions.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/View/submitFollowupForm.html" />
+        <option value="$PROJECT_DIR$/index.yaml" />
+        <option value="$PROJECT_DIR$/StudMitSys/View/closeRequestForm.html" />
+        <option value="$PROJECT_DIR$/StudMitSys/View/requestDetailsCloseForm.html" />
+        <option value="$PROJECT_DIR$/StudMitSys/templates/header.tpl" />
+        <option value="$PROJECT_DIR$/StudMitSys/View/Requests.html" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/emailTest.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/templates/emailTutorChange.tpl" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/emailFunctions.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/templates/emailRequestFollowup.tpl" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/incomingEmail.php" />
+        <option value="C:/php/php.ini" />
+        <option value="$PROJECT_DIR$/vendor/floriansemm/official-library-php-email-parser/PlancakeEmailParser.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/templates/emailNoTextOrTitle.tpl" />
+        <option value="$PROJECT_DIR$/StudMitSys/templates/emailRequestClose.tpl" />
+        <option value="$PROJECT_DIR$/StudMitSys/templates/emailRequestSubmitted.tpl" />
+        <option value="$PROJECT_DIR$/StudMitSys/templates/emailNotAStudent.tpl" />
+        <option value="$PROJECT_DIR$/StudMitSys/templates/emailNewRequest.tpl" />
+        <option value="$PROJECT_DIR$/php.ini" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/TS.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/submitRequestFunctions.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/trelloTest.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/trelloFunctions.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/requestDetailsFunctions.php" />
+        <option value="$PROJECT_DIR$/static/imagePreview.js" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/incomingEmailRequest.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/Model/setupDatastore.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/View/submitRequest.html" />
+        <option value="$PROJECT_DIR$/StudMitSys/Model/readDatastore.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/smartyFunctions.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/Test.puml" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/StudMitSys/Model/writeDatastore.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/templates/emailNewUser.tpl" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/submitRequest.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/newUser.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/userDetails.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/newUserFunctions.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/View/newUser.html" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/userFunctions.php" />
+        <option value="$PROJECT_DIR$/app.yaml" />
+        <option value="$PROJECT_DIR$/StudMitSys/plugins/function.navbar.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/View/noAccount.html" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/noAccount.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/requestDetails.php" />
+        <option value="$PROJECT_DIR$/StudMitSys/View/requestDetails.html" />
+        <option value="$PROJECT_DIR$/StudMitSys/Control/Requests.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="D:\Documents\University stuff\Advanced Development\Assignment\AD Assignment Adam Williams i7648171" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP">
+    <include_path>
+      <path value="C:/Program Files (x86)/Google/google_appengine/php/sdk" />
+      <path value="$PROJECT_DIR$/vendor/smarty/smarty" />
+      <path value="$PROJECT_DIR$/vendor/google/cloud-core" />
+      <path value="$PROJECT_DIR$/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/vendor/google/cloud-datastore" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/google/cloud-storage" />
+      <path value="$PROJECT_DIR$/vendor/google/appengine" />
+      <path value="$PROJECT_DIR$/vendor/tomwalder/php-gds" />
+      <path value="$PROJECT_DIR$/vendor/floriansemm/official-library-php-email-parser" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/rize/uri-template" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth1-client" />
+      <path value="$PROJECT_DIR$/vendor/stevenmaguire/trello-php" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-5" />
+    <option name="y" value="-5" />
+    <option name="width" value="683" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AD Assignment Adam Williams i7648171" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AD Assignment Adam Williams i7648171" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="AD Assignment Adam Williams i7648171" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AD Assignment Adam Williams i7648171" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="StudMitSys" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="AD Assignment Adam Williams i7648171" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AD Assignment Adam Williams i7648171" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="StudMitSys" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Control" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="AD Assignment Adam Williams i7648171" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AD Assignment Adam Williams i7648171" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="StudMitSys" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="AD Assignment Adam Williams i7648171" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AD Assignment Adam Williams i7648171" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="StudMitSys" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="View" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ACTIVE_CLOUD_PROJECT_ACCOUNT" value="adamw1806@gmail.com" />
+    <property name="ACTIVE_CLOUD_PROJECT_NAME" value="i7648171" />
+    <property name="ACTIVE_CLOUD_PROJECT_ID" value="i7648171" />
+    <property name="ACTIVE_CLOUD_PROJECT_NUMBER" value="697212765590" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="SearchEverywhereHistoryKey" value="getImageServingUrl&#9;null&#9;null&#10;getKeyData&#9;null&#9;null&#10;arr_data&#9;null&#9;null&#10;getkeyid&#9;null&#9;null&#10;propertyname&#9;null&#9;null&#10;getpropertyname&#9;null&#9;null&#10;getProperty&#9;null&#9;null&#10;getproperty&#9;null&#9;null&#10;property&#9;null&#9;null&#10;getKeyID&#9;null&#9;null" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.selected.package.stylelint" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\University stuff\Advanced Development\Assignment\AD Assignment Adam Williams i7648171\static" />
+      <recent name="D:\Documents\University stuff\Advanced Development\Assignment\AD Assignment Adam Williams i7648171\StudMitSys\templates" />
+      <recent name="D:\Documents\University stuff\Advanced Development\Assignment\AD Assignment Adam Williams i7648171\StudMitSys\plugins" />
+      <recent name="D:\Documents\University stuff\Advanced Development\Assignment\AD Assignment Adam Williams i7648171\StudMitSys\Control" />
+      <recent name="D:\Documents\University stuff\Advanced Development\Assignment\AD Assignment Adam Williams i7648171" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\i7648171\Google Drive\University stuff\Advanced Development\Assignment\AD Assignment Adam Williams i7648171\StudMitSys\templates" />
+      <recent name="D:\Documents\University stuff\Advanced Development\Assignment\AD Assignment Adam Williams i7648171\StudMitSys\templates" />
+      <recent name="D:\Documents\University stuff\Advanced Development\Google app engine stuff\GAE PHP 5.5 Smarty" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="untitled" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP" session_id="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37dfb23a-c3c0-42d9-9444-6b236c0cb53a" name="Default" comment="" />
+      <created>1539368986857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539368986857</updated>
+      <workItem from="1539368989837" duration="13000" />
+      <workItem from="1539369039626" duration="1470000" />
+      <workItem from="1539371895784" duration="129000" />
+      <workItem from="1539372424740" duration="1518000" />
+      <workItem from="1539770386797" duration="1392000" />
+      <workItem from="1539777818945" duration="80000" />
+      <workItem from="1539780633666" duration="194000" />
+      <workItem from="1539780844508" duration="246000" />
+      <workItem from="1539942363059" duration="86000" />
+      <workItem from="1539942464921" duration="7255000" />
+      <workItem from="1539958577052" duration="282000" />
+      <workItem from="1540547412036" duration="688000" />
+      <workItem from="1540548964056" duration="1674000" />
+      <workItem from="1540550663756" duration="3579000" />
+      <workItem from="1541154416517" duration="1307000" />
+      <workItem from="1541156477579" duration="3909000" />
+      <workItem from="1542970983057" duration="5850000" />
+      <workItem from="1543224959188" duration="1194000" />
+      <workItem from="1543226217400" duration="3243000" />
+      <workItem from="1543234005159" duration="2172000" />
+      <workItem from="1543239985901" duration="110000" />
+      <workItem from="1543244256522" duration="2421000" />
+      <workItem from="1543310915223" duration="6659000" />
+      <workItem from="1543320978878" duration="11092000" />
+      <workItem from="1543341085983" duration="727000" />
+      <workItem from="1543344321682" duration="6795000" />
+      <workItem from="1543396977133" duration="1458000" />
+      <workItem from="1543404456072" duration="1012000" />
+      <workItem from="1543410167215" duration="60000" />
+      <workItem from="1543415414359" duration="80000" />
+      <workItem from="1543417627198" duration="3377000" />
+      <workItem from="1543423460806" duration="4197000" />
+      <workItem from="1543431057759" duration="7175000" />
+      <workItem from="1543438757853" duration="105000" />
+      <workItem from="1543438884282" duration="646000" />
+      <workItem from="1543439549308" duration="434000" />
+      <workItem from="1543440002852" duration="935000" />
+      <workItem from="1543482938380" duration="5893000" />
+      <workItem from="1543494896633" duration="9261000" />
+      <workItem from="1543504929617" duration="8941000" />
+      <workItem from="1543581249206" duration="99000" />
+      <workItem from="1543588009227" duration="3563000" />
+      <workItem from="1543829090561" duration="4613000" />
+      <workItem from="1543838489532" duration="2142000" />
+      <workItem from="1543847083687" duration="6186000" />
+      <workItem from="1543915007696" duration="17160000" />
+      <workItem from="1544000525385" duration="11678000" />
+      <workItem from="1544024495710" duration="11212000" />
+      <workItem from="1544087915439" duration="9086000" />
+      <workItem from="1544102763551" duration="3795000" />
+      <workItem from="1544106712522" duration="5873000" />
+      <workItem from="1544172980782" duration="3153000" />
+      <workItem from="1544179781638" duration="6935000" />
+      <workItem from="1544187767156" duration="3614000" />
+      <workItem from="1544191721291" duration="9372000" />
+      <workItem from="1544209121612" duration="5105000" />
+      <workItem from="1544434434032" duration="3105000" />
+      <workItem from="1544441377370" duration="2806000" />
+      <workItem from="1544447909002" duration="10388000" />
+      <workItem from="1544471091175" duration="5731000" />
+      <workItem from="1544522542454" duration="2735000" />
+      <workItem from="1544529081443" duration="7937000" />
+      <workItem from="1544606641217" duration="2505000" />
+      <workItem from="1544609801122" duration="6463000" />
+      <workItem from="1544620076651" duration="6418000" />
+      <workItem from="1544626973775" duration="5533000" />
+      <workItem from="1544636182120" duration="9181000" />
+      <workItem from="1544692686877" duration="5230000" />
+      <workItem from="1544703154342" duration="7846000" />
+      <workItem from="1544714605889" duration="7856000" />
+      <workItem from="1544728072029" duration="4418000" />
+      <workItem from="1544782040345" duration="8943000" />
+      <workItem from="1544793844151" duration="1740000" />
+      <workItem from="1544796059136" duration="6803000" />
+      <workItem from="1545038830160" duration="4525000" />
+      <workItem from="1545048688068" duration="3612000" />
+      <workItem from="1545070749930" duration="4940000" />
+      <workItem from="1545077658292" duration="1536000" />
+      <workItem from="1545124583848" duration="17720000" />
+      <workItem from="1545151914484" duration="2134000" />
+      <workItem from="1545223050802" duration="11663000" />
+      <workItem from="1545296143809" duration="3539000" />
+      <workItem from="1545305375166" duration="13139000" />
+      <workItem from="1545385404997" duration="2272000" />
+      <workItem from="1545402351581" duration="13840000" />
+      <workItem from="1545569072410" duration="14572000" />
+      <workItem from="1545649554067" duration="13742000" />
+      <workItem from="1545670370547" duration="715000" />
+      <workItem from="1545671327371" duration="57000" />
+      <workItem from="1545826412061" duration="3468000" />
+      <workItem from="1545908483993" duration="768000" />
+      <workItem from="1545909273631" duration="558000" />
+      <workItem from="1545909849764" duration="540000" />
+      <workItem from="1545910410425" duration="912000" />
+      <workItem from="1545911343657" duration="356000" />
+      <workItem from="1545911723858" duration="2306000" />
+      <workItem from="1545917314262" duration="8988000" />
+      <workItem from="1545990792190" duration="2745000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="445530000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-5" y="-5" width="1376" height="738" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16717096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18330605" sideWeight="0.5325265" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Google Cloud Storage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21931261" sideWeight="0.46747354" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.4924357" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18330605" sideWeight="0.5295008" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18330605" sideWeight="0.47049925" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.4924357" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22163388" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Google Cloud Storage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/StudMitSys/Control/trelloFunctions.php</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/StudMitSys/templates/emailTutorChange.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="true" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/imagePreview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Control/trelloTest.php" />
+    <entry file="file://$PROJECT_DIR$/.gcloudignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/textAreaGrow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="74" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/templates/emailNewRequest.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/templates/emailRequestSubmitted.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/templates/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/templates/footer.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/View/requestDetailsCloseForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Control/requestDetailsFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="59" lean-forward="true" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/D:/Users/i7648171/Google Drive/University stuff/Advanced Development/Assignment/AD Assignment Adam Williams i7648171/StudMitSys/Control">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>$PROJECT_DIR$/StudMitSys/Control</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="523.0" y="280.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/D:/Users/i7648171/Google Drive/University stuff/Advanced Development/Assignment/AD Assignment Adam Williams i7648171/StudMitSys">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>$PROJECT_DIR$/StudMitSys</OriginalElement>
+          <nodes>
+            <node x="0.0" y="74.0">$PROJECT_DIR$/StudMitSys/plugins</node>
+            <node x="0.0" y="0.0">$PROJECT_DIR$/StudMitSys/templates</node>
+            <node x="116.0" y="74.0">$PROJECT_DIR$/StudMitSys/Control</node>
+            <node x="0.0" y="148.0">$PROJECT_DIR$/StudMitSys/Model</node>
+            <node x="110.0" y="148.0">$PROJECT_DIR$/StudMitSys/View</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-185.0" y="49.0" />
+          <SelectedNodes>
+            <node>$PROJECT_DIR$/StudMitSys/plugins</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Test.puml" />
+    <entry file="uml://PHP/D:/Users/i7648171/Google Drive/University stuff/Advanced Development/Assignment/AD Assignment Adam Williams i7648171">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/static</node>
+            <node x="" y="">$PROJECT_DIR$/vendor</node>
+            <node x="" y="">$PROJECT_DIR$/StudMitSys</node>
+            <node x="" y="">$PROJECT_DIR$/plugins</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="86.0" y="89.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WriteCommand.puml" />
+    <entry file="file://$PROJECT_DIR$/emailFunctions.puml" />
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/D:/Users/i7648171/Google Drive/University stuff/Advanced Development/Assignment/AD Assignment Adam Williams i7648171/StudMitSys">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/StudMitSys</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/StudMitSys/View/Requests.html</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.3.1.js</node>
+            <node x="" y="">$PROJECT_DIR$/StudMitSys/View/requestDetails.html</node>
+            <node x="" y="">$PROJECT_DIR$/StudMitSys/View/submitRequest.html</node>
+            <node x="" y="">/static/imagePreview.js</node>
+            <node x="" y="">/static/textAreaGrow.js</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="242.0" y="129.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eugenmihailescu-php-project-tree-accdb5361783/src/index.php" />
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Model/deleteDatastore.php" />
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Model/cloudstore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Model/readDatastore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Model/setupDatastore.php" />
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Control/emailFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Control/trelloFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Model/writeDatastore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/templates/emailNewUser.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="105" lean-forward="false" selection-start-line="4" selection-start-column="105" selection-end-line="4" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Control/submitRequestFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Control/submitRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/View/userDetails.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="53" lean-forward="false" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Control/userDetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <marker date="1545930330991" expanded="true" signature="1296:1616" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/View/submitRequest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="48" column="46" lean-forward="false" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Control/newUserFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="24" column="48" lean-forward="false" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Control/incomingEmailRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Control/newUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Control/smartyFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/View/newUser.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="32" column="17" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Control/userFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="40" column="28" lean-forward="false" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/View/noAccount.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/plugins/function.navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="96" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Control/noAccount.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/View/requestDetails.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="78" lean-forward="true" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Control/requestDetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="62" column="27" lean-forward="true" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/View/Requests.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudMitSys/Control/Requests.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

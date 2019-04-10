@@ -1,0 +1,43 @@
+<?php require '../Control/newUser.php'; ?>
+<h5>Submit new user</h5>
+<form id="submitUser">
+    <p>Google Email</p>
+    <input type="text" id="userEmail">
+    <p>Name</p>
+    <input type="text" id="userName">
+    <p>Role</p>
+    <select id="userRoleSelect">
+        <option>Student</option>
+        <option>Tutor</option>
+    </select>
+    <button type="submit" id="submitUserBtn">Submit User</button>
+</form>
+<?php echo $smarty->display('footer.tpl'); ?>
+
+<script src="https://code.jquery.com/jquery-3.3.1.js" type="text/javascript"></script>
+<script>
+    $("#submitUser").submit(function(event) { // Form submit, ajax used instead of regular post so no refresh on failing to submit.
+        var request;
+        event.preventDefault();
+        if (request) {request.abort();}
+
+        var $fields = $(this).find("input, select"); // Disable editable fields when submitting
+        $fields.prop("disabled", true);
+
+        var formData = new FormData (); //Get data and make post
+        formData.append("userEmail" , String(document.getElementById('userEmail').value)); //Text
+        formData.append("userName" , String(document.getElementById('userName').value)); //Text
+        formData.append("userRoleSelect" , document.getElementById('userRoleSelect').options[document.getElementById('userRoleSelect').selectedIndex].value); //reason select
+        request = $.ajax({url: "/newUserFunctions", type: "post", processData: false, contentType: false, data: formData});
+
+        request.done(function (response){ // success handler
+            if (response.includes("id=")) {
+                window.location.href = ("/userDetails?" + eval(response));
+            } else {
+                alert(response);
+            }
+        });
+        request.fail(function (textStatus, errorThrown){console.error("Error: "+ textStatus, errorThrown);}); // Failure handler
+        request.always(function () {$fields.prop("disabled", false);}); //Re enable fields
+    });
+</script>

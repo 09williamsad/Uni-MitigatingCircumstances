@@ -1,0 +1,39 @@
+<?php require '../Control/Requests.php'; ?>
+<h5>Requests filter</h5>
+<form id="requestFilter">
+    <p>Status</p>
+    <select id="status">
+        <option>Open</option>
+        <option>Accepted: Acceptable circumstance</option>
+        <option>Denied: Invalid circumstance</option>
+        <option>Not Applicable</option>
+        <option>Closed by student</option>
+    </select>
+    <?php echo $tutorEmailElement; ?>
+    <button type="submit" id="submitFilter">Submit</button>
+</form>
+<br>
+<div class="grid-container" align="center" style="display: grid; grid-template-columns: auto auto auto auto auto auto; padding: 10px; grid-gap: 5px;">
+    <div class="grid-item"><h6>Title</h6></div>
+    <div class="grid-item"><h6>Student</h6></div>
+    <div class="grid-item"><h6>Reason</h6></div>
+    <div class="grid-item"><h6>Submitted</h6></div>
+    <div class="grid-item"><h6>Status</h6></div>
+    <div class="grid-item"><h6>Assigned to</h6></div>
+    <?php echo $requestsRows; ?>
+</div>
+<?php echo $smarty->display('footer.tpl'); ?>
+
+<script src="https://code.jquery.com/jquery-3.3.1.js" type="text/javascript"></script>
+<script>
+    $("#requestFilter").submit(function(event){
+        event.preventDefault(); //Prevent regular form submit
+        var selectedStatus = document.getElementById('status').options[document.getElementById('status').selectedIndex].value;
+        if (document.getElementById('selectedTutor')) {
+            var selectedTutor = document.getElementById('selectedTutor').options[document.getElementById('selectedTutor').selectedIndex].value;
+            window.location.href = '/requests?status=' + selectedStatus + '&selectedTutor=' + selectedTutor;
+        } else {
+            window.location.href = '/requests?status=' + selectedStatus;
+        }
+    });
+</script>

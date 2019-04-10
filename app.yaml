@@ -1,0 +1,71 @@
+application: i7648171
+version: 1
+runtime: php55
+api_version: 1
+
+inbound_services:
+- mail
+
+handlers:
+- url: /_ah/mail/newRequest@i7648171\.appspotmail\.com
+  script: StudMitSys/Control/incomingEmailRequest.php
+
+- url: /static
+  static_dir: static
+  login: required
+  secure: always
+
+- url: /requestDetailsFunctions
+  script: StudMitSys/Control/requestDetailsFunctions.php
+  login: required
+  secure: always
+
+- url: /submitRequestFunctions
+  script: StudMitSys/Control/submitRequestFunctions.php
+  login: required
+  secure: always
+
+- url: /submitRequest
+  script: StudMitSys/View/submitRequest.html
+  login: required
+  secure: always
+
+- url: /noAccount
+  script: StudMitSys/View/noAccount.html
+  login: required
+  secure: always
+
+- url: /newUserFunctions
+  script: StudMitSys/Control/newUserFunctions.php
+  login: required
+  secure: always
+
+- url: /newUser
+  script: StudMitSys/View/newUser.html
+  login: required
+  secure: always
+
+- url: /Requests
+  script: StudMitSys/View/Requests.html
+  login: required
+  secure: always
+
+- url: /requestDetails
+  script: StudMitSys/View/requestDetails.html
+  login: required
+  secure: always
+
+- url: /userDetails
+  script: StudMitSys/View/userDetails.html
+  login: required
+  secure: always
+
+- url: /indexgraph
+  script: eugenmihailescu-php-project-tree-accdb5361783/src/index.php
+  login: required
+  secure: always
+
+- url: .*
+  script: StudMitSys/View/Requests.html
+  login: required
+  secure: always

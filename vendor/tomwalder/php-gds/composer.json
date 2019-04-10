@@ -1,0 +1,34 @@
+{
+    "name": "tomwalder/php-gds",
+    "type": "library",
+    "description": "Google Cloud Datastore Library for PHP",
+    "keywords": ["google", "datastore", "appengine", "gae", "cloud datastore", "nosql"],
+    "homepage": "https://github.com/tomwalder/php-gds",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Tom Walder",
+            "email": "twalder@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "ext-bcmath" : "*"
+    },
+    "require-dev": {
+        "google/auth": "v1.0.*",
+        "google/appengine-php-sdk": ">=1.9.22",
+        "phpunit/phpunit": "~4.8",
+        "satooshi/php-coveralls": "v2.0.*"
+    },
+    "suggest": {
+        "google/auth": "If you need to use the REST API (i.e. not on AppEngine Standard) Tested with v1.0.1"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ],
+        "psr-4": {"GDS\\": "src/GDS/"}
+    },
+    "include-path": ["src/"]
+}

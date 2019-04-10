@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/package_name",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": ""
+    }
+  ],
+  "require": {
+    "google/cloud-datastore": "v1.5.10",
+    "smarty/smarty": "v3.1.33",
+    "google/cloud-storage": "v1.9.1",
+    "tomwalder/php-gds": "v4.1.1",
+    "floriansemm/official-library-php-email-parser": "1.0.0",
+    "stevenmaguire/trello-php": "0.5.3"
+  }
+}

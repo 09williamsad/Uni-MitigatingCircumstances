@@ -1,0 +1,17 @@
+<?php require '../Control/userDetails.php'; ?>
+<h5>User Details</h5>
+<div class="grid-container" style="display: grid; grid-template-columns: auto; padding: 10px; grid-gap: 5px;">
+    <div class="grid-item"><b>Name:</b><?php echo $userData['Name']; ?></div>
+    <div class="grid-item"><b>Email:</b><?php echo $id; ?></div>
+    <div class="grid-item"><b>Group:</b><?php echo $userData['role'] ?></div>
+    <div class="grid-item"><b>Active:</b><?php echo $active ?></div>
+</div>
+<br>
+<h5><?php echo $requestsHeader; ?></h5>
+<table class="u-full-width">
+    <thead><tr><th>Made</th><th>Title</th><th>Reason</th><th>Status</th></tr></thead>
+    <tbody>
+    <?php echo $userRequestsRows; ?>
+    </tbody>
+</table>
+<?php echo $smarty->display('footer.tpl'); ?>
